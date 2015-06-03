@@ -1,0 +1,6 @@
+# Mac Files
+.DS_Store
+
+# Cached data files
+household_power_consumption.txt
+filtered_household_power_consumption.rda
